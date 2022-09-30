@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThembaMahlangu
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Web Dev and Software Development
+- 🌱 I’m currently learning VueJS and PHP
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ...
  jvstraphael@gmail.com
