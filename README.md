@@ -1,17 +1,52 @@
-# Hi, I'm @ThembaMahlangu 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stephen Okyere
+======================================================================================================================================
 
-I'm a web developer and software developer with a passion for building beautiful and functional web and mobile apps. 
+Frontend Developer
+-------------
 
-![MERN Stack](https://raw.githubusercontent.com/mongodb/docs/master/docs/assets/img/mern-stack.png) ![HTML, CSS, JS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+I'm a code newbie, learning and documenting my journey with projects while I learn
 
-I have experience working with the MERN stack (MongoDB, ExpressJS, ReactJS, and NodeJS) as well as HTML, CSS, and JavaScript.
+* 🌍  I'm based in Middelburg, Mpumalanga
+* ✉️  You can contact me at [jvstraphael@gmail.com](mailto:jvstraphael@gmail.com)
+* 🚀  I'm currently working on Learner-Management-Rjs one of my big projects
+* 🧠  I'm learning the React Native framework
+* 🤝  I'm open to collaborating on web and app development projects
 
-![React Native](https://raw.githubusercontent.com/react-native-community/react-native-docs/main/img/react-native-logo.png) ![ReactJS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
+<a href="https://www.twitter.com/jvstraphael" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/jvstraphael?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/thembamahlangu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/thembamahlangu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-I'm also familiar with React Native and ReactJS, and I'm planning to learn Python by the end of this year. 
+### Skills
 
-![Collaboration](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/collaboration/collaboration.png)
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>                
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+</p>
 
-I'm always on the lookout for new challenges and opportunities to collaborate on web projects. If you're interested in working together, please reach out to me at jvstraphael@gmail.com 
 
-![Email](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/email/email.png)
+### Socials
+
+<p align="left"> <a href="https://www.codepen.io/stephenokyere233" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.codesandbox.com/stephenokyere233" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/stephenokyere233#1356" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/stephenokyere233" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/stephenokyere233" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dev.__steve" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.https://linkedin.com/in/raphaelmahlangu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19442080/stephen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com//dev__steve" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/thembamahlangu"><img src="https://github-readme-stats.vercel.app/api?username=stephenokyere233&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thembamahlangu's GitHub stats" /></a>
+
+<a href="http://www.github.com/thembamahlangu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stephenokyere233&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+<a href="https://github.com/thembamahlangu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenokyere233&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/raphaelfb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
