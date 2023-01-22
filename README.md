@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stephen Okyere
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Themba Mahlangu
 ======================================================================================================================================
 
-Frontend Developer
+Full Stack Developer
 -------------
 
-I'm a code newbie, learning and documenting my journey with projects while I learn
+I'm on an intermediate level of coding, learning and documenting my journey with projects while I learn
 
 * 🌍  I'm based in Middelburg, Mpumalanga
 * ✉️  You can contact me at [jvstraphael@gmail.com](mailto:jvstraphael@gmail.com)
