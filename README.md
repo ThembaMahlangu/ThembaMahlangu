@@ -7,7 +7,7 @@ Web and App Developer
 I'm on an intermediate level of coding, learning and documenting my journey with projects while I learn
 
 *   🌍  I'm based in Middelburg, Mpumalanga
-*   🖥️  See my portfolio at [MyPortfolio](http://edulinkage.co.za )
+*   🖥️  See my portfolio at [MyPortfolio](https://portfolio-alpha-eight-15.vercel.app)
 *   ✉️  You can contact me at [jvstraphael@gmail.com](mailto:jvstraphael@gmail.com)
 *   🧠  I'm learning React Native
 *   🤝  I'm open to collaborating on Web and App development using the frameworks I use or something I could learn<a href="https://www.github.com/thembamahlangu" target="_blank" rel="noreferrer"><img
