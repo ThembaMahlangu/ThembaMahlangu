@@ -9,7 +9,7 @@ I'm on an intermediate level of coding, learning and documenting my journey with
 *   🌍  I'm based in Middelburg, Mpumalanga
 *   🖥️  See my portfolio at [MyPortfolio](https://portfolio-alpha-eight-15.vercel.app)
 *   ✉️  You can contact me at [jvstraphael@gmail.com](mailto:jvstraphael@gmail.com)
-*   🧠  I'm learning React Native
+*   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on Web and App development using the frameworks I use or something I could learn<a href="https://www.github.com/thembamahlangu" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/thembamahlangu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/JvstRaphael" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/JvstRaphael?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
