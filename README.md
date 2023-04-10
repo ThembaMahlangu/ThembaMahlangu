@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Themba Mahlangu
 =======================================================================================================================================
 
-Web and App Developer
+Software Developer
 ---------------------
 
 I'm on an intermediate level of coding, learning and documenting my journey with projects while I learn
