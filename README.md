@@ -6,7 +6,7 @@ Software Developer
 
 I'm on an intermediate level of coding, learning and documenting my journey with projects while I learn
 
-*   🌍  I'm based in Middelburg, Mpumalanga
+*   🌍  I'm based in Johannesburg, South Africa
 *   🖥️  See my portfolio at [MyPortfolio](https://portfolio-alpha-eight-15.vercel.app)
 *   ✉️  You can contact me at [jvstraphael@gmail.com](mailto:jvstraphael@gmail.com)
 *   🧠  I'm learning C#
