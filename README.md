@@ -7,8 +7,8 @@ Software Developer
 I'm on an intermediate level of coding, learning and documenting my journey with projects while I learn
 
 *   🌍  I'm based in Johannesburg, South Africa
-*   🖥️  See my portfolio at [MyPortfolio](https://portfolio-alpha-eight-15.vercel.app)
-*   ✉️  You can contact me at [jvstraphael@gmail.com](mailto:jvstraphael@gmail.com)
+*   🖥️  See my portfolio at [MyPortfolio](https://happycare.co.za)
+*   ✉️  You can contact me at [jvstraphael@gmail.com](mailto:themba.12p@gmail.com)
 *   🧠  I'm learning C#
 *   🤝  I'm open to collaborating on Desktop Applications{MacOS Only} & Web/App development using the frameworks I use or something I could learn<a href="https://www.github.com/thembamahlangu" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/thembamahlangu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/JvstRaphael" target="_blank" rel="noreferrer"><img
