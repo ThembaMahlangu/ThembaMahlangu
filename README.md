@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif" alt="Snake animation" />
+<img src="https://miro.medium.com/v2/resize:fit:2920/1*MAo3uTXpjquJt_7dLZ8Qgw.gif" alt="Snake animation" />
 
 ###
