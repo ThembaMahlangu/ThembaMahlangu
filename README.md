@@ -1,20 +1,17 @@
-Hi My name is Themba Mahlangu
-=======================================================================================================================================
+<h2 align="left">Hi 👋! My name is Themba Mahlangu and I'm a Full-Stack Developer, from South Africa</h2>
 
-Software Developer
----------------------
+###
 
-I'm on an intermediate level of coding, learning and documenting my journey with projects while I learn
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thembamahlangu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thembamahlangu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-*   🌍  I'm based in Johannesburg, South Africa
-*   🖥️  See my portfolio at [MyPortfolio](https://happycare.co.za)
-*   ✉️  You can contact me at [jvstraphael@gmail.com](mailto:themba.12p@gmail.com)
-*   🧠  I'm learning C#
-*   🤝  I'm open to collaborating on Desktop Applications{MacOS Only} & Web/App development using the frameworks I use or something I could learn<a href="https://www.github.com/thembamahlangu" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/thembamahlangu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/JvstRaphael" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/JvstRaphael?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
-### Skills 
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -36,18 +33,15 @@ I'm on an intermediate level of coding, learning and documenting my journey with
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
-                    
- 
-### Socials
+
+###
 
 <p align="left"> <a href="https://www.facebook.com/JvstRaphael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/thembamahlangu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/JvstRaphael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/raphaelmahlangu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/JvstRaphael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/RaphaelGaming" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-### Badges
+###
 
-<b>My GitHub Stats</b>
+<br clear="both">
 
-<a href="http://www.github.com/thembamahlangu"><img src="https://github-readme-stats.vercel.app/api?username=thembamahlangu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thembamahlangu's GitHub stats" /></a>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-<a href="http://www.github.com/thembamahlangu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thembamahlangu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/thembamahlangu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=thembamahlangu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+###
