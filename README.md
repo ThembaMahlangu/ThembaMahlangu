@@ -43,6 +43,10 @@
 
 <br clear="both">
 
-<img src="https://miro.medium.com/v2/resize:fit:2920/1*MAo3uTXpjquJt_7dLZ8Qgw.gif" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thembamahlangu/thembamahlangu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thembamahlangu/thembamahlangu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/thembamahlangu/thembamahlangu/output/github-snake.svg" />
+</picture>
 
 ###
