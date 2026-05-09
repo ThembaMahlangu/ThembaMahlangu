@@ -18,6 +18,7 @@
 ```ts
 class ThembaMahlangu {
   name = "Themba Mahlangu";
+  scriptingName = "sgMAGLERA";
 
   location = "South Africa";
 
@@ -48,13 +49,16 @@ class ThembaMahlangu {
 
     backend: [
       "Node.js",
-      "Express"
+      "Express",
+      "ASP.NET"
     ]
   };
 
   databases = [
     "MongoDB",
-    "Firebase"
+    "Firebase",
+    "Superbase",
+    "AWS"
   ];
 
   tools = [
@@ -146,10 +150,10 @@ export default new ThembaMahlangu();
 | Focus Area | Technologies |
 |---|---|
 | 🌐 Web Applications | React, Next.js, Angular |
-| ⚡ Backend APIs | Node.js, Express |
+| ⚡ Backend APIs | Node.js, Express | ASP.NET | AWS |
 | 🎮 Interactive Systems | Lua, C# |
 | 🖥 Desktop Applications | C# |
-| ☁ Cloud Infrastructure | Firebase, Heroku |
+| ☁ Cloud Infrastructure | Firebase, Heroku | Superbase |
 | 🎨 UI Engineering | TailwindCSS, SASS |
 
 </div>
@@ -180,7 +184,7 @@ export default new ThembaMahlangu();
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="48" />
 </a>
 
-<a href="https://www.youtube.com/c/RaphaelGaming" target="_blank">
+<a href="https://www.youtube.com/c/sgMAGLERA" target="_blank">
   <img src="https://cdn.simpleicons.org/youtube/FF0000" height="48" />
 </a>
 
