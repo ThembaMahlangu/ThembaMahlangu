@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Themba%20Mahlangu&fontAlign=50&fontAlignY=40&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&desc=Software%20Developer%20•%20Creative%20Builder%20•%20Tech%20Explorer&descAlignY=60&animation=fadeIn" width="100%" />
@@ -231,4 +230,3 @@ export default new ThembaMahlangu();
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" width="100%" />
 
 </div>
-```
