@@ -103,31 +103,19 @@ export default new ThembaMahlangu();
 
 ## ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,aws,dotnet" />
 
 ---
 
 ## 🗄 Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,heroku" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,heroku,aws" />
 
 ---
 
 ## 🛠 Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,babel" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thembamahlangu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thembamahlangu&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,babel,visualstudio" />
 
 </div>
 
@@ -153,7 +141,7 @@ export default new ThembaMahlangu();
 | ⚡ Backend APIs | Node.js, Express | ASP.NET | AWS |
 | 🎮 Interactive Systems | Lua, C# |
 | 🖥 Desktop Applications | C# |
-| ☁ Cloud Infrastructure | Firebase, Heroku | Superbase |
+| ☁ Cloud Infrastructure | Firebase, Heroku | Superbase | AWS |
 | 🎨 UI Engineering | TailwindCSS, SASS |
 
 </div>
